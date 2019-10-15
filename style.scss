@@ -21,6 +21,7 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  text-align: justify;
 }
 
 .container {
@@ -244,7 +245,6 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
-  text-align: justify;
 }
 
 .posts > .post:last-child {
