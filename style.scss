@@ -21,7 +21,6 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-  text-align: justify;
 }
 
 .container {
@@ -260,6 +259,10 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
+  }
+ 
+ .entry {
+ 	text-align: justify;
   }
 
   .comments {
