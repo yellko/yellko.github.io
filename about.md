@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: KO
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Nennt mich doch einfach "KO". Nicht "K" und "O" sondern KO.
+Ein netter, ehrlicher Gamer und Hardware Enthusiast, so wie ich mich beschreiben würde.
+Immer an neuesten Technik-Trends interessiert und mit der Leidenschaft des Zockens dabei.
 
-### More Information
+### Gemeinsame Gamingsessions?
 
-A place to include any other types of information that you'd like to include about yourself.
+Zu Spielen die mir gefallen werde ich gerne live streamen. Am besten erreicht ihr mich über Twitter oder Twitch.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+↓ Social-Media-Einträge stehen direkt hier drunter! ↓
