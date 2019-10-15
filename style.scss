@@ -155,7 +155,7 @@ img {
 }
 
 .masthead {
-  padding: 0px 0;
+  padding: 00px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
@@ -225,7 +225,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #EEE;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -256,7 +256,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: #fff;
+    color: $gray;
     font-size: 22px;
     font-style: italic;
   }
@@ -277,9 +277,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000;
-  background-color: $DarkGray;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: #303030;
 }
 
 footer {
