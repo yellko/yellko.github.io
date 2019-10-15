@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Der erste Start
+published: true
 ---
+Und auf einmal haben mich die Fäden wieder ins Netz geholt.
+Den ersten Auftritt mit öffentlicher Webseite zu gestalten ist gar nicht so einfach wie man glaubt. Es schwirren Gedanken im Kopf ob man sich überhaupt die Mühe machen sollte sein virtuelles Ich im Netz zu "verewigen". Gedanken freien Lauf zu lassen hilft einem jedoch hin un wieder den Kopf frei zu bekommen und erlebtes zu verarbeiten. Ist der Gedanken nicht irgendwie schön einen Fußabdruck zu hinterlassen und nach einigen Jahren wieder zurück zu blicken und sich zu denken: "Man, was für eine Kacke habe ich damals vor mit her geplappert?!".
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Meine ersten Erfahrungen mit Webdesign habe ich bereits mit 13 Jahren gemacht. Ich fand das Netz, Web, ja das Internet schon immer interessant. Möglichkeiten der relativ freien Gestaltung und der Möglichkeit gemeinsam an Dingen festzuhalten oder zu arbeiten. Getrieben hat mich niemand, nur der Wille etwas eigenes auf die Beine zu stellen. Frei nach dem Motto: "Was kann denn schon passieren.". Über die Jahre hinweg und auch mit der Reife und der Erfahrung habe ich an diesem Ansatz immer weiter losgelassen und mich den relativen Normen geschlagen gegeben. Zwar habe ich hier und da über Herumgebastel an Webseiten und Gestaltung von Grafiken kleinere Communitys über ein CMS (Content Management System) gegründet (hier noch der CMS Kandidat unter der GPL "e107" - Ja, damals gab es noch kein Wordpress, Joomla oder wie sie alle heißen), aber nie an irgend einem "Projekt" oder Vorhaben festgehalten. Mit der Gefahr hin, dass man sich doch nicht allzugut mit der Systematik von HTML, CSS, PHP, Webservices, FTP und vieles mehr auskannte, habe ich eine meiner Leidenschaften dann doch wieder fallengelassen. Natürlich nicht ohne Grund! Schule, Freunde, Freundin, dem Spaß am Gaming/Zocken/Daddeln - das Alles stand irgendwann im Vordergrund. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+to be continued...
