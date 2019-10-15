@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 <article class="post">
@@ -10,7 +11,7 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Geschrieben am {{ page.date | date: "%e.%b.%Y" }}
   </div>
 
   {% include disqus.html %}
