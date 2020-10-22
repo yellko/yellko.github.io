@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Der erste Start
-published: false
+published: true
 ---
 Und auf einmal haben mich die Fäden wieder ins Netz geholt.
 Den ersten Auftritt mit öffentlicher Webseite zu gestalten ist gar nicht so einfach wie man glaubt. Es schwirren Gedanken im Kopf ob man sich überhaupt die Mühe machen sollte sein virtuelles Ich im Netz zu "verewigen". _Gedanken freien Lauf zu lassen hilft einem jedoch hin und wieder den Kopf frei zu bekommen und Erlebtes zu verarbeiten_. Ist der Gedanke nicht irgendwie schön einen Fußabdruck zu hinterlassen und nach einigen Jahren wieder zurück zu blicken und sich zu denken: "Man, was für eine Kacke habe ich damals von mir gegeben?!".
