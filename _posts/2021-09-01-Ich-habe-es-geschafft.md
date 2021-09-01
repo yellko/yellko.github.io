@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Als ich vor Jahren meinen ersten Laptop kaufte ging kein Weg daran vorbei: Es sollte Windows als Betriebssystem darauf. Ja klar, eine Möglichkeit auch hin und wieder mal etwas zu zocken und welches Betriebssystem hatte vor rund 10 Jahren schon die Möglichkeit leistungsorientiert Warcraft III, World of Warcraft, SIMS oder hin- und wieder mal eine Runde Wolfenstein: Enemy Territory oder CounterStrike zu spielen? Irgendwie war man doch an Windows gebunden, ob zwanghaft? Nicht wirklich. Wenn man jedoch eine Runde zocken wollte, so kam man nicht an dem Microsoft-Produkt vorbei.
 Linux, -Debian oder Ubuntu interessierte mich irgendwie schon, aber in der Schule, in der Ausbildung und auf der Arbeit sagte doch immer jeder: du brauchst Microsoft Office. Also knapp gesagt: In meinem kleinen Umfeld kam Linux einfach nicht in Frage.... jetzt, nach Rund 10 Jahren, einen Laptop weiter oder seit heute das dritte private Lap-Device, bin ich froh zu sagen: Ich bin umgezogen, ich wurde bekehrt... Ja ich wurde eines besseren beleert... schlicht und ergreifend: Ich habe mich von ChromeOS überzeugen lassen und ich bin stolz darauf.
