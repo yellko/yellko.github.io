@@ -6,11 +6,10 @@ published: true
 ---
 
 Nennt mich doch einfach "KO". Nicht "K" und "O" sondern KO.
-Ein netter, ehrlicher Gamer und Hardware Enthusiast, so wie ich mich beschreiben würde.
-Immer an neuesten Technik-Trends interessiert und mit der Leidenschaft des Zockens dabei.
+Ein netter, ehrlicher Gamer und Hardware Enthusiast, so wie ich mich beschreiben würde. Immer an neuesten Technik-Trends interessiert und mit der Leidenschaft des Zockens dabei.
 
-Auf diesem Mini-Blog lasse ich meine Gedanken freien lauf.
-Wen es interessiert, der ist herzlich eingeladen mit zu lesen. Fühlt euch ganz frei und ko'nnected euch.
+Auf diesem Mini-Blog lasse ich meine Gedanken freien lauf. Wen es interessiert, der ist herzlich eingeladen mit zu lesen. Fühlt euch ganz frei und ko'nnected euch.
+
 Erreichen könnt ihr mich über meine sozialen Profile. Entweder über Twitter oder Twitch. Ich freue mich über jede konstruktive Kritik oder auch einfach auf ein "Hallo".
 
 Euer KO
