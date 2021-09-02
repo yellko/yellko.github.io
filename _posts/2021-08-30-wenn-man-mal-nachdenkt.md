@@ -5,4 +5,6 @@ Wenn mal mal darüber nachdenkt und das letzte halbe Jahr Revue passieren lässt
 
 Dennoch blicke ich auch auf die schönen Dinge im Leben zurück - mehr Zeit Zuhause, Zeit für die Familie, Zeit für einen selbst. Zeit, sich anderen Herausforderungen zu stellen und zu wachsen. Wachsen im Menschendarsein.
 
-... to be continued ...
+…to be continued…
+
+Euer KO
