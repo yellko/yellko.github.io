@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DER KO
+title: KO?
 permalink: /about/
 published: true
 ---
