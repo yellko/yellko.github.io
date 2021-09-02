@@ -17,4 +17,4 @@ Euer KO
 
 Zu Spielen die mir gefallen werde ich gerne live streamen. Am besten erreicht ihr mich über Twitter oder Twitch.
 
-↓ Social-Media-Einträge stehen direkt hier drunter! ↓
+_↓ Social-Media-Einträge stehen direkt hier drunter! ↓_
