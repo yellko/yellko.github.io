@@ -12,7 +12,3 @@ Also, was war mein nächster Schritt? Wie ich erwähnt habe, war meine damalige 
 Mit dem heutigen Tage, einem sehr guten Warehouse-Deal später, bin ich nun stolzer Besitzer eines Chromebooks und ich bin angetan. Alles läuft rund, flüssig, bietet Features bei denen ich selbst nie gedacht hätte, dass ich diese schon nach nur einem Tag Benutzungszeit nicht mehr missen will. Das alles zeigt mir wieder einmal, dass man gerade bei IT-Themen nicht die Augen verschließen sollte und gerne auch mal positiv überrascht werden kann. 
 
 In diesem Sinne: haltet die Augen offen und hinterfragt manchmal selbst, was ihr wirklich braucht.
-
-...to be continued...
-
-Euer KO
