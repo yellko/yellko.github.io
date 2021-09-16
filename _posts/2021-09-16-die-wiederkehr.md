@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Die Wiederkehr zu einem alt-bekanntem Tool hat mich die Tage begleitet. Ab und an streame ich Spielecontent auf Twitch und setze mich gerne mit dieser Thematik auseinander. Als ich jedoch eines Abends mit Problemen in der Streaming Qualität zu kämpfen hatte, musste ich meine gesamten Einstellungen überprüfen. Insgesamt hat es mich zwei Abende gebraucht, bis ich endlich wieder zu einer qualitativ überzeugenden Streamingqualität zurück gelangt bin.
 
@@ -23,5 +23,3 @@ Leider auch hier: ohne Erfolg! Mein Stream stockte weiterhin. Frameeinbrüche, s
 Tjaha, der Übeltäter lag doch tiefer im System als gedacht. Als ich in der vergangenen Woche so auf dem Linux-Trip war und mit eine Gaming-Distribution namens Pop!_OS_ angeschaut habe, musste ich zwecks notwendigem Boot-Stick eine BIOS-Einstellung ändern. Nämlich die der "Secure Boot"-Option. Alles funktionierte nach erneutem Hochfahren von Windows - aber eben nicht mein Stream bzw. lief meine Grafikkarte beinahe immer unter Vollast. Erst nachdem ich wirklich darüber nachgedacht habe, was ich denn an meinem System verändert habe, kam ich irgendwann auf den Trichter, dass es eventuell mit dieser einen BIOS-Einstellung zu tun hatte. Und ja, es war so ... Unglaublich, wie eine einzelne Einstellung ein ganzes System nicht mehr so arbeiten lässt, wie man es gewohnt war.
 
 Eine Erkenntnis brachte es mir jedoch: _Manchmal ist weniger mehr_. Nachdem ich meine Szenen und Einstellungen in Open Broadcaster Software (OBS) überführt hatte, war ich so zufrieden wie lange nicht mehr. Alles dort, wo man es braucht. Einfach, einfach!
-
-
