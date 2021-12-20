@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Seit gut zwei Jahrzenten spiele ich Computerspiele. Über den eigenen Aufbau eines Systems mit Unterstützung meines Vaters, bis hin zu LAN-Party lokal bei Freunden (Ja, Internet war nicht immer da und/oder so günstig) - Danke AOL für deine Loginmaske (Nostalgie pur). Die Anfänge waren aufwändig und gute Spiele waren rar gesäht. Wenn man ein Spiel dann hatte, was einem gefiel, dann intensivierte man es/reizte es aus und unterhielt sich darüber in der Schule und nicht wie heute übers Smartphone, im Discord/TS, Foren oder Streaming-Platformen. Multiplayer-Spiele gab es, aber gerade zu Beginn spielte man sie lokal mit Freunden auf LAN-Partys. Dabei holte man alles aus dem Spiel raus, versuchte irgendwie an Mods zu kommen und man tausche untereinander Datenträger aus. Reviews gab es höchstens in Zeitschriften, oder eben durch Freunde, die das Spiel bereits hatten. Es waren nun doch etwas andere Zeiten. Gerne erinnere ich mich an diese Zeiten zurück, denn man hatte eben nicht dieses Übermaß an Spielen und setzte mich mehr mit einem Spiel auseinander. 
 
