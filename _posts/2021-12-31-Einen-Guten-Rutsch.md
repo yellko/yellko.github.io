@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Uns so bahnt sich eine neue Jahreszahl an. Ein Abschnitt, welchen wir jedes Jahr feiern. Silvester, der letzte Tag des Jahres im gregorianischen Kalender. 
 
