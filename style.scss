@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #fadd88;
+  color: #D2C8AE;
   font-weight: bold;
   text-transform: uppercase;
 
@@ -71,7 +71,7 @@ p {
 }
 
 a {
-  color: #fadd88;
+  color: #D2C8AE;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -194,7 +194,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #fadd88;
+  color: #D2C8AE;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -228,7 +228,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #fadd88;
+    color: #D2C8AE;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -236,7 +236,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: #fadd88;
+      color: #D2C8AE;
     }
   }
 }
@@ -260,7 +260,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: #fadd88;
+    color: #D2C8AE;
     font-size: 22px;
     font-style: italic;
   }
