@@ -3,8 +3,6 @@ layout: page
 title: Impressum
 permalink: /impressum/
 ---
-
-# Impressum  
 **Angaben gemäß § 5 TMG**  
 
 Max Mustermann  
@@ -15,4 +13,3 @@ E-Mail: [max@example.com](mailto:max@example.com)
 
 ---
 Letzte Aktualisierung: {{ site.time | date: "%d.%m.%Y" }}
-
