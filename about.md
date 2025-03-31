@@ -15,8 +15,4 @@ Euer KO
 
 ### Gemeinsame Gamingsessions?
 
-Zu Spielen, die mir gefallen, werde ich gerne live streamen. Schaut im Chat bei Twitch vorbei und fragt mich an.
-
-_↓ Social-Media-Einträge stehen direkt hier drunter! ↓_
-
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@yell.ko" data-unique-id="yell.ko"  data-embed-type="creator" style="max-width: 720px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@yell.ko?refer=creator_embed">@yell.ko</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+Zu Spielen, die mir gefallen, werde ich gerne live streamen. Schaut im Chat bei Twitch vorbei und fragt an.
