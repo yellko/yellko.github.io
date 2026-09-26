@@ -1,23 +1,26 @@
 
 //
-// VARIABLES
+// VARIABLES — YELLKO / KO' Branding
+// (dieselben Werte wie in der Link-Page / im Overlay-System)
 //
 
-// Colors
-$blue: #4183C4;
+// Marken-Palette
+$bg:        #0E0C0C;
+$panel:     #17130F;
+$champ:     #D4B47B;
+$bronze:    #A87543;
+$ivoryHi:   #EBE2C8;
+$subGray:   #9F9B91;
+$taupe:     #8A7660;
 
-// Grays
+// Grays (fuer Selection etc.)
 $black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
 $white: #fff;
+$lightGray: #eee;
 
-// Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+// Font stacks — Google Fonts, gleich wie Panels/Overlay/Link-Page
+$display: "Bebas Neue", Impact, "Arial Narrow", sans-serif;
+$body: "Open Sans", Arial, sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {

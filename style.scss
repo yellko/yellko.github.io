@@ -18,9 +18,13 @@ html {
 }
 
 body {
-  background-color: #202020;
-  font: 18px/1.4 $helvetica;
-  color: #E0E0E0;
+  background-color: $bg;
+  background-image:
+    radial-gradient(ellipse 900px 600px at 50% -8%, rgba(168,117,67,.22), transparent 60%),
+    radial-gradient(ellipse 700px 500px at 50% 0%, rgba(58,44,30,.5), transparent 65%);
+  background-attachment: fixed;
+  font: 17px/1.6 $body;
+  color: $ivoryHi;
 }
 
 .container {
@@ -31,24 +35,25 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: #D2C8AE;
-  font-weight: bold;
+  font-family: $display;
+  color: $ivoryHi;
+  font-weight: 400;
   text-transform: uppercase;
+  letter-spacing: .03em;
 
-  line-height: 1.7;
+  line-height: 1.3;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.25;
   }
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 32px;
   a {
-  text-transform: uppercase;
+    text-transform: uppercase;
     color: inherit;
   }
 }
@@ -62,8 +67,8 @@ h3 {
 }
 
 h4 {
-  font-size: 18px;
-  color: $gray;
+  font-size: 17px;
+  color: $subGray;
 }
 
 p {
@@ -71,11 +76,12 @@ p {
 }
 
 a {
-  color: #D2C8AE;
+  color: $champ;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
+  transition: color .15s ease;
   &:hover, &:active {
-    color: #eee;
+    color: $ivoryHi;
   }
 }
 
@@ -106,10 +112,12 @@ em, i {
 
 strong, b {
   font-weight: bold;
+  color: $ivoryHi;
 }
 
 img {
   max-width: 100%;
+  border-radius: 8px;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -118,18 +126,22 @@ img {
 }
 
 .date {
-  font-style: italic;
-  color: $gray;
+  font-family: $display;
+  font-style: normal;
+  font-size: 13px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: $champ;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: $bg;
+  background: $champ;
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: $bg;
+  background: $champ;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -153,12 +165,13 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 20px;
+  margin-bottom: 40px;
+  padding-top: 44px;
 }
 
 .masthead {
-  padding-bottom: 10px;
-  border-bottom: 5px solid #303030;
+  padding-bottom: 26px;
+  border-bottom: 1px solid rgba(212,180,123,.22);
 
   @include mobile {
     text-align: center;
@@ -167,76 +180,94 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+  width: 72px;
+  height: 72px;
+  margin-right: 18px;
 
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
+    margin: 0 auto 14px;
   }
 
   img {
-    border-radius: 5px;
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    box-shadow: 0 0 0 2px $champ, 0 6px 18px rgba(0,0,0,.5);
   }
 }
 
 .site-info {
   float: left;
+  padding-top: 4px;
 
   @include mobile {
     float: none;
     display: block;
     margin: 0 auto;
+    padding-top: 0;
   }
 }
 
 .site-name {
   margin: 0;
-  color: #D2C8AE;
+  color: $ivoryHi;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
+  font-family: $display;
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: .05em;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 14px;
+  margin: 2px 0 0 0;
+  color: $subGray;
+  font-family: $body;
+  font-size: 13px;
+  letter-spacing: .02em;
 
   @include mobile {
-    margin: 3px 0;
+    margin: 6px 0 0;
   }
 }
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+  margin-top: 20px;
+  font-family: $display;
+  font-size: 15px;
+  letter-spacing: .06em;
   text-transform: uppercase;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 18px;
     display: block;
-    font-size: 16px;
   }
 
   a {
-    margin-left: 20px;
-    color: #D2C8AE;
+    margin-left: 10px;
+    padding: 7px 16px;
+    border: 1.5px solid rgba(212,180,123,.4);
+    border-radius: 20px;
+    color: $ivoryHi;
     text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+    font-weight: 400;
+    letter-spacing: .06em;
     text-transform: uppercase;
+    transition: border-color .15s ease, background .15s ease, color .15s ease;
+
+    &:hover, &:active {
+      border-color: $champ;
+      background: rgba(212,180,123,.1);
+      color: $champ;
+    }
 
     @include mobile {
-      margin: 0 10px;
-      color: #D2C8AE;
+      margin: 0 5px;
+      display: inline-block;
     }
   }
 }
@@ -246,49 +277,98 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 3px solid #303030;
+  background: $panel;
+  border: 1.5px solid rgba(212,180,123,.28);
+  border-radius: 14px;
+  padding: 26px 28px;
+  margin-bottom: 20px;
+  transition: border-color .15s ease, transform .15s ease;
+
+  &:hover {
+    border-color: rgba(212,180,123,.55);
+  }
+
+  h1 {
+    margin-top: 0;
+    font-size: 26px;
+  }
 }
 
 .posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
+  margin-bottom: 0;
 }
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: #D2C8AE;
-    font-size: 22px;
+    margin: 1.6em 0;
+    border-left: 3px solid $champ;
+    padding: 0.3em 1.2em;
+    color: $subGray;
+    font-size: 19px;
     font-style: italic;
   }
- 
- .entry {
- 	text-align: justify;
+
+  .entry {
+    text-align: left;
   }
 
   .comments {
-    margin-top: 10px;
+    margin-top: 24px;
   }
 
   .read-more {
+    display: inline-block;
+    margin-top: 12px;
     text-transform: uppercase;
-    font-size: 15px;
+    font-family: $display;
+    font-size: 14px;
+    letter-spacing: .08em;
+    color: $champ;
+
+    &:after {
+      content: " →";
+    }
+
+    &:hover {
+      color: $ivoryHi;
+    }
+  }
+}
+
+// Einzelne Post-/Seiten-Ansicht — eigener Karten-Rahmen
+article.post, article.page {
+  background: $panel;
+  border: 1.5px solid rgba(212,180,123,.28);
+  border-radius: 14px;
+  padding: 30px 32px;
+
+  @include mobile {
+    padding: 22px 18px;
+  }
+
+  > h1:first-child {
+    margin-top: 0;
   }
 }
 
 .wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000;
-  background-color: #303030;
+  margin-top: 60px;
+  border-top: 1px solid rgba(212,180,123,.18);
+  background: transparent;
 }
 
 footer {
-  padding: 20px 0;
+  padding: 26px 0 40px;
   text-align: center;
+  font-size: 13px;
+  color: $subGray;
+
+  a {
+    color: $subGray;
+  }
+  a:hover {
+    color: $champ;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
