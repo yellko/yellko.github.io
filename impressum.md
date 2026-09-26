@@ -5,11 +5,7 @@ permalink: /impressum/
 ---
 **Angaben gemäß § 5 TMG**  
 
-Max Mustermann  
-Musterstraße 1  
-12345 Musterstadt  
-
-E-Mail: [max@example.com](mailto:max@example.com)  
+KO
 
 ---
 Letzte Aktualisierung: {{ site.time | date: "%d.%m.%Y" }}
